@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59ab0900-6bf6-4e56-942b-77f8080587f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jxl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/AutomationAmazon/AmazonAutomation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/DBConnection/DBConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/DevFactionDatabase/GoogleDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/SearchFeature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/datasource/DatabaseOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/TestAmazonAutomation/TestAmazon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/TestDBConnection/TestDBConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/TestHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/dropdown/TestDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/firstexcel.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/menu/MenuPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/test/search/TestSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/testExcel/ExcelTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomationFrameWork1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/secret.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/RestAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/W3Schools.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-21:32PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-21:37PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-21:54PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-22:00PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-22:03PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-22:05PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-22:43PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-22:44PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/screenshots/readCell (01.16.2019-22:55PM).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/java/tabledata/TestTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/target/test-classes/W3SchoolsTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstexcel.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -545,7 +478,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989754" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49795082" visible="true" weight="0.3375262" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49795082" visible="true" weight="0.2327044" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010246" side_tool="true" weight="0.36268345" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49795082" weight="0.32914045" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989754" weight="0.35220125" />
