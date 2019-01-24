@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59ab0900-6bf6-4e56-942b-77f8080587f6" name="Default Changelist" comment="" />
+    <list default="true" id="59ab0900-6bf6-4e56-942b-77f8080587f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -53,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testExcel/ExcelTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="105">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -289,7 +291,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548333220044" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548333625686" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -430,7 +432,28 @@
       <option name="project" value="LOCAL" />
       <updated>1548333030935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="addition">
+      <created>1548333077948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548333077948</updated>
+    </task>
+    <task id="LOCAL-00004" summary="addition">
+      <created>1548333217667</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548333217667</updated>
+    </task>
+    <task id="LOCAL-00005" summary="addition">
+      <created>1548333279849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548333279849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -476,7 +499,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1024" height="592" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23217922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -492,7 +514,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989754" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49795082" visible="true" weight="0.07337526" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49795082" visible="true" weight="0.6163522" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010246" side_tool="true" weight="0.36268345" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49795082" weight="0.32914045" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989754" weight="0.35220125" />
@@ -858,8 +880,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testExcel/ExcelTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
