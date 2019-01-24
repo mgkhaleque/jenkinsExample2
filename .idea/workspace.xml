@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59ab0900-6bf6-4e56-942b-77f8080587f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,18 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestAmazonAutomation/TestAmazon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testExcel/ExcelTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="209">
               <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -64,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+            <state relative-caret-position="233">
+              <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutomationFrameWork1.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -93,7 +91,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -135,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/datasource/DatabaseOperation.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/menu/MenuPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestHome.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" />
@@ -180,12 +181,13 @@
         <option value="$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/AutomationAmazon/AmazonAutomation.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/secret.properties.properties" />
         <option value="$PROJECT_DIR$/AutomationFrameWork1.iml" />
         <option value="$PROJECT_DIR$/RestAPI/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/testExcel/ExcelTester.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -197,14 +199,14 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
+    <option name="showVersions" value="true" />
     <treeState>
       <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
     <option name="width" value="1024" />
     <option name="height" value="592" />
   </component>
@@ -244,42 +246,8 @@
               <item name="AutomationFrameWork1" type="462c0819:PsiDirectoryNode" />
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomationFrameWork1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationFrameWork1" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomationFrameWork1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationFrameWork1" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testExcel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomationFrameWork1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationFrameWork1" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomationFrameWork1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationFrameWork1" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomationFrameWork1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationFrameWork1" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,7 +259,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548334086658" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548351178628" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -453,7 +421,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548333279849</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated artifact">
+      <created>1548337564681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548337564682</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated artifact/corrected artifact">
+      <created>1548340482617</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548340482618</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -498,9 +480,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1024" height="592" extended-state="6" />
+    <frame x="0" y="23" width="1024" height="592" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23217922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23217922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,7 +496,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989754" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49795082" visible="true" weight="0.6100629" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49795082" visible="true" weight="0.31027254" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010246" side_tool="true" weight="0.36268345" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49795082" weight="0.32914045" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989754" weight="0.35220125" />
@@ -524,7 +506,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.1496945" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.16496944" />
       <window_info anchor="right" id="Mongo Explorer" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -532,7 +514,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code added" />
     <MESSAGE value="addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="addition" />
+    <MESSAGE value="updated artifact" />
+    <MESSAGE value="updated artifact/corrected artifact" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated artifact/corrected artifact" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/W3Schools/target/test-classes/tabledata/TestTable.class">
@@ -803,13 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationFrameWork1.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestAmazonAutomation/TestAmazon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -837,13 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -857,9 +827,6 @@
           <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestDBConnection/TestDBConnect.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -880,11 +847,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testExcel/ExcelTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="209">
           <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationFrameWork1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
         </state>
       </provider>
     </entry>
