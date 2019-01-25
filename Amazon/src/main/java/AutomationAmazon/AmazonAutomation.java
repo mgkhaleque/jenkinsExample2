@@ -8,6 +8,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import java.util.concurrent.TimeUnit;
 //author zibonIbrahim!
+// Sloooooow to respond!!
 public class AmazonAutomation {
     public static WebDriver driver = null;
     public String baseUrl;
